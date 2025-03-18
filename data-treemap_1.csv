@@ -1,12 +1,13 @@
 id,value
 country,
 country.China,50
-country.US,2
-country.India,7
-country.Russia,26
-country.Japan,3.4
-country.Germany,2.1
-country.South Korea,2.1
-country.Iran,1.9
-country.Saudi Arabia,1.7
-country.Canada,1.6
+country.US,10
+country.India,9
+country.Russia,8
+country.Japan,7
+country.Germany,6
+country.South Korea,5
+country.Iran,4
+country.Saudi Arabia,3
+country.Canada,2
+country.Be,1
